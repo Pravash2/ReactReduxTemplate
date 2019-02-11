@@ -1,2 +1,0 @@
-# ReactReduxTemplate
-Created with CodeSandbox
